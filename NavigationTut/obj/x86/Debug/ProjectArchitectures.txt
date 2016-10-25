@@ -1,0 +1,1 @@
+c:\users\native\documents\visual studio 2015\Projects\NavigationTut\NavigationTut\NavigationTut.csproj;x86
